@@ -19,13 +19,13 @@ This Python script automatically organizes files in a specified directory by mov
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/yourusername/Automatic-File-Sorter.git
+   git clone https://github.com/reipared/automatic_file_sorter.git
    ```
 
 2. Navigate to the project folder:
 
    ```sh
-   cd Automatic-File-Sorter
+   cd automatic_file_sorter
    ```
 
 ## Usage
